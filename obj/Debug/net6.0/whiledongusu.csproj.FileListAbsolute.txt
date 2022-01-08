@@ -1,0 +1,15 @@
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\bin\Debug\net6.0\whiledongusu.exe
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\bin\Debug\net6.0\whiledongusu.deps.json
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\bin\Debug\net6.0\whiledongusu.runtimeconfig.json
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\bin\Debug\net6.0\whiledongusu.dll
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\bin\Debug\net6.0\ref\whiledongusu.dll
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\bin\Debug\net6.0\whiledongusu.pdb
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\whiledongusu.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\whiledongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\whiledongusu.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\whiledongusu.AssemblyInfo.cs
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\whiledongusu.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\whiledongusu.dll
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\ref\whiledongusu.dll
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\whiledongusu.pdb
+C:\Users\Melih\Desktop\pratikler\donguler\whiledongusu\whiledongusu\obj\Debug\net6.0\whiledongusu.genruntimeconfig.cache
